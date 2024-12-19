@@ -23,7 +23,7 @@
         integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
     @stack('style')
-    <title>Toko Online | {{ $title }}</title>
+    <title>RK | {{ $title }}</title>
 </head>
 
 <body>

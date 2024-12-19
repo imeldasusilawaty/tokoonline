@@ -1,10 +1,8 @@
-<nav class="navbar navbar-dark navbar-expand-lg" style="background-color: #025464">
+<nav class="navbar navbar-dark navbar-expand-lg" style="background-color: #493628">
     <div class="container">
-        <a class="navbar-brand" href="#">Toko Online</a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
-            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
+        <a class="navbar-brand" href="/">
+            <img src="{{ asset('assets\images\ruangkopi-logo.png') }}" alt="RK" width="50" height="44">
+        </a>
         <div class="collapse navbar-collapse justify-content-end gap-4" id="navbarSupportedContent">
             <ul class="navbar-nav gap-4">
                 <li class="nav-item">
